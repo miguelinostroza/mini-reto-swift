@@ -47,6 +47,7 @@
 		0CB5542E1CE13F0A002649EF /* Tarea Juego de memoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tarea Juego de memoriaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CB554321CE13F0A002649EF /* Tarea_Juego_de_memoriaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tarea_Juego_de_memoriaUITests.swift; sourceTree = "<group>"; };
 		0CB554341CE13F0A002649EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0CB554401CE140C5002649EF /* reto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = reto.playground; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				0CB554191CE13F0A002649EF /* Assets.xcassets */,
 				0CB5541B1CE13F0A002649EF /* LaunchScreen.storyboard */,
 				0CB5541E1CE13F0A002649EF /* Info.plist */,
+				0CB554401CE140C5002649EF /* reto.playground */,
 			);
 			path = "Tarea Juego de memoria";
 			sourceTree = "<group>";
